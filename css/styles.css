@@ -1,1 +1,14 @@
 /* Stylesheet */
+
+body {
+	background: #9CC
+}
+
+header {
+	border-bottom: 1px solid #000
+}
+
+.container_12 {
+	background: #FC9 ;
+}
+
