@@ -4,11 +4,31 @@ body {
 	background: #9CC
 }
 
+section {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
 header {
-	border-bottom: 1px solid #000
+	font-family: 'Open Sans Condensed', sans-serif;
+	border-bottom: 1px solid black ;
+}
+
+nav {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+blockquote {
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .container_12 {
-	background: #FC9 ;
+	
+}
+
+blockquote {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 48px ;
+	text-align: center ;
+	color: #FFF
 }
 
